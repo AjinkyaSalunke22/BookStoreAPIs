@@ -1,0 +1,18 @@
+{
+  "name": "bookmanagementsystem",
+  "version": "1.0.0",
+  "description": "This is the demo book store app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Ajinkya Salunke",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "joi": "^17.13.3",
+    "mysql2": "^3.11.3",
+    "nodemon": "^3.1.7",
+    "sequelize": "^6.37.4"
+  }
+}
